@@ -4,3 +4,6 @@
 *.log
 .DS_Store
 Thumbs.db
+
+# Heavy docx files (use PDF and Markdown reports)
+*.docx
